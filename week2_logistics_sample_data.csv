@@ -1,0 +1,13 @@
+Order_ID,Shipment_Mode,Distance_km,Shipment_Weight_kg,Delivery_Time_days,Transportation_Cost,Inventory_Level,On_Time
+1001,Road,120.0,500,2.5,4500,120,Yes
+1002,Air,850.0,120,1.2,15000,80,Yes
+1003,Road,300.0,800,4.0,7000,250,No
+1004,Sea,,1500,8.0,22000,500,Yes
+1005,Road,180.0,450,,5200,140,Yes
+1006,Air,1200.0,80,2.0,18000,60,Yes
+1007,Road,250.0,600,3.0,6500,300,No
+1008,Sea,600.0,2000,12.0,30000,700,No
+1009,Road,150.0,520,2.8,4800,160,Yes
+1010,Air,950.0,110,1.5,16000,90,Yes
+1011,Road,500.0,700,25.0,9000,400,No
+1012,Sea,700.0,1600,9.0,24000,550,Yes
